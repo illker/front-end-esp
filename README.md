@@ -1,12 +1,12 @@
 # Full-Stack Web Development with React
 
-![full-stack](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/21/63ebb07dd611e8b1142169883ade72/Slide1.png?auto=format%2Ccompress&dpr=1)
+![full-stack](https://semanticadigital.com/wp-content/uploads/2017/01/cover-2.png)
 
 
 3 COURSE SPECIALIZATION
 ## Hong Kong University of Science and Technology
 
-<[Coursera](https://www.coursera.org/specializations/full-stack-react)>
+< [Coursera link] (https://www.coursera.org/specializations/full-stack-react)>
 
 ## About this Specialization
 
