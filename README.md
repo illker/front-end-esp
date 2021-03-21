@@ -6,7 +6,7 @@
 3 COURSE SPECIALIZATION
 ## Hong Kong University of Science and Technology
 
-< [Coursera link] (https://www.coursera.org/specializations/full-stack-react)>
+< [Coursera link](https://www.coursera.org/specializations/full-stack-react) >
 
 ## About this Specialization
 
